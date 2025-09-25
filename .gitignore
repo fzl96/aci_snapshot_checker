@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv_aci/
+
+# Env files
+.env
+
+# Output folder
+output/
+

@@ -1,0 +1,17 @@
+Node,Interface,CRC Errors,DN
+node-3104,po12,3915,topology/pod-1/node-3104/sys/aggr-[po12]/dbgEtherStats
+node-3121,eth1/48,6,topology/pod-1/node-3121/sys/phys-[eth1/48]/dbgEtherStats
+node-3120,eth1/49,12,topology/pod-1/node-3120/sys/phys-[eth1/49]/dbgEtherStats
+node-3111,eth1/36,17,topology/pod-1/node-3111/sys/phys-[eth1/36]/dbgEtherStats
+node-3116,eth1/42,32,topology/pod-1/node-3116/sys/phys-[eth1/42]/dbgEtherStats
+node-3115,eth1/19,3,topology/pod-1/node-3115/sys/phys-[eth1/19]/dbgEtherStats
+node-3114,eth1/9,99,topology/pod-1/node-3114/sys/phys-[eth1/9]/dbgEtherStats
+node-3114,po1,144,topology/pod-1/node-3114/sys/aggr-[po1]/dbgEtherStats
+node-3117,eth1/15,7789,topology/pod-1/node-3117/sys/phys-[eth1/15]/dbgEtherStats
+node-3117,po13,7789,topology/pod-1/node-3117/sys/aggr-[po13]/dbgEtherStats
+node-3118,eth1/15,249,topology/pod-1/node-3118/sys/phys-[eth1/15]/dbgEtherStats
+node-3118,eth1/23,236,topology/pod-1/node-3118/sys/phys-[eth1/23]/dbgEtherStats
+node-3118,po44,249,topology/pod-1/node-3118/sys/aggr-[po44]/dbgEtherStats
+node-3118,po48,236,topology/pod-1/node-3118/sys/aggr-[po48]/dbgEtherStats
+node-3502,eth2/9,13,topology/pod-1/node-3502/sys/phys-[eth2/9]/dbgEtherStats
+node-3502,eth1/1,9,topology/pod-1/node-3502/sys/phys-[eth1/1]/dbgEtherStats

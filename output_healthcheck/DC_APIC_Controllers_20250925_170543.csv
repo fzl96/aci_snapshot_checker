@@ -1,0 +1,4 @@
+Hostname,Serial,IP,Mode,Status,Health
+DC-APIC-02-LT3,WZP273907S9,,active,available,fully-fit
+DC-APIC-03-LT3,WZP274003TE,,active,available,fully-fit
+DC-APIC-01-LT3,WZP273907TJ,,active,available,fully-fit

@@ -1,0 +1,8 @@
+Node,Interface,FCS Errors,DN
+node-1112,po8,6740,topology/pod-1/node-1112/sys/aggr-[po8]/dbgDot3Stats
+node-1112,po9,1752,topology/pod-1/node-1112/sys/aggr-[po9]/dbgDot3Stats
+node-1112,eth1/11,6740,topology/pod-1/node-1112/sys/phys-[eth1/11]/dbgDot3Stats
+node-1112,eth1/12,1752,topology/pod-1/node-1112/sys/phys-[eth1/12]/dbgDot3Stats
+node-1112,eth1/50,1,topology/pod-1/node-1112/sys/phys-[eth1/50]/dbgDot3Stats
+node-1502,eth1/4,13,topology/pod-1/node-1502/sys/phys-[eth1/4]/dbgDot3Stats
+node-1502,eth2/7,18,topology/pod-1/node-1502/sys/phys-[eth2/7]/dbgDot3Stats

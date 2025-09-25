@@ -1,0 +1,4 @@
+Hostname,Serial,IP,Mode,Status,Health
+DC2-APIC-01,WZP28050KPU,,active,available,fully-fit
+DC2-APIC-02,WZP28050KPZ,,active,available,fully-fit
+DC2-APIC-03,WZP28050KQ6,,active,available,fully-fit

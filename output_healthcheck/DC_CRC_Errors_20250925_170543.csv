@@ -1,0 +1,15 @@
+Node,Interface,CRC Errors,DN
+node-1101,eth1/36,7,topology/pod-1/node-1101/sys/phys-[eth1/36]/dbgEtherStats
+node-1103,eth1/50,1,topology/pod-1/node-1103/sys/phys-[eth1/50]/dbgEtherStats
+node-1104,eth1/50,1,topology/pod-1/node-1104/sys/phys-[eth1/50]/dbgEtherStats
+node-1111,eth1/50,10,topology/pod-1/node-1111/sys/phys-[eth1/50]/dbgEtherStats
+node-1109,eth1/50,2,topology/pod-1/node-1109/sys/phys-[eth1/50]/dbgEtherStats
+node-1112,po8,6740,topology/pod-1/node-1112/sys/aggr-[po8]/dbgEtherStats
+node-1112,po9,1752,topology/pod-1/node-1112/sys/aggr-[po9]/dbgEtherStats
+node-1112,eth1/11,6740,topology/pod-1/node-1112/sys/phys-[eth1/11]/dbgEtherStats
+node-1112,eth1/12,1752,topology/pod-1/node-1112/sys/phys-[eth1/12]/dbgEtherStats
+node-1112,eth1/50,1,topology/pod-1/node-1112/sys/phys-[eth1/50]/dbgEtherStats
+node-1301,eth1/36,2538,topology/pod-1/node-1301/sys/phys-[eth1/36]/dbgEtherStats
+node-1302,eth1/36,1,topology/pod-1/node-1302/sys/phys-[eth1/36]/dbgEtherStats
+node-1502,eth1/4,13,topology/pod-1/node-1502/sys/phys-[eth1/4]/dbgEtherStats
+node-1502,eth2/7,18,topology/pod-1/node-1502/sys/phys-[eth2/7]/dbgEtherStats
